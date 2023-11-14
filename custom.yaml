@@ -1,0 +1,9 @@
+
+path: /content/drive/My Drive/PROJECTS/pose estimation/doc_data
+train: images/train
+val: images/val
+
+kpt_shape: [4,2]
+
+names:
+  0: target
